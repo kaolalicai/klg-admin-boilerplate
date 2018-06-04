@@ -1,0 +1,14 @@
+{
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "extends": [
+    "plugin:vue/recommended",
+    "standard"
+  ],
+  "plugins": ["vue"],
+  "rules": {
+    "object-curly-spacing": 2,
+    "vue/max-attributes-per-line": 0
+  }
+}
